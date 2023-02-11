@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BabyMe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="no_baby_found">No baby found</string>
+    <string name="year_of_birth">Year of birth</string>
+    <string name="gender">Gender</string>
+    <string name="ethnicity">Ethnicity</string>
+    <string name="name">Name</string>
+    <string name="total_of_babies_with_this_name">Total of babies with this name</string>
+    <string name="name_rank">Name rank</string>
+</resources>
